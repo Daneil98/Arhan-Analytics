@@ -53,7 +53,7 @@ graph TD
 <img width="1917" height="943" alt="GOOGL Analysis 2" src="https://github.com/user-attachments/assets/64d0b0ae-dad8-413d-8bfd-6285d860d22b" />
 
 
-### 2. The Valuation Model
+### 2. The Valuation Model (Code Snippet)
 <img width="1833" height="960" alt="DCF Code Logic" src="https://github.com/user-attachments/assets/cdc80743-66f5-44df-b7f7-2751070a8c90" />
 
 ### 3. Final Investment Memo
