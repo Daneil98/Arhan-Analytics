@@ -57,7 +57,11 @@ graph TD
 <img width="1833" height="960" alt="DCF Code Logic" src="https://github.com/user-attachments/assets/cdc80743-66f5-44df-b7f7-2751070a8c90" />
 
 ### 3. Final Investment Memo
+<img width="690" height="872" alt="GOOGL PDF Report 1" src="https://github.com/user-attachments/assets/d1b19053-579d-4bb9-9f92-15832796a48b" />
 
+<img width="688" height="885" alt="GOOGL PDF Report 2" src="https://github.com/user-attachments/assets/c48181af-0849-4ec5-8be1-c7ff6f2f1d44" />
+
+<img width="690" height="883" alt="GOOGL PDF Report 3" src="https://github.com/user-attachments/assets/9d4ecaa9-9671-481f-98f0-896930fa1241" />
 
 
 ## 🛠️ Tech Stack
