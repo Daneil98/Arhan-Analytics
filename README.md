@@ -36,7 +36,7 @@ Unlike standard screeners, this engine performs raw calculations from primary fi
 
 ```mermaid
 graph TD
-    A[User Input: Ticker Symbol] --> B[Data Ingestion Service]
+    A[User Input: Ticker Symbol, WACC, Growth Rate] --> B[Data Ingestion Service]
     B --> C{Valuation Engine}
     C -->|Quantitative Data| D[DCF Model & Ratio Analysis]
     C -->|Context Vectors| E[AI Analyst Agent]
