@@ -54,7 +54,8 @@ graph TD
 
 
 ### 2. The Valuation Model (Code Snippet)
-<img width="1833" height="960" alt="DCF Code Logic" src="https://github.com/user-attachments/assets/cdc80743-66f5-44df-b7f7-2751070a8c90" />
+<img width="1840" height="957" alt="DCF Code Logic" src="https://github.com/user-attachments/assets/58710264-6bb4-435f-ad7c-13ba8960df76" />
+
 
 ### 3. Final Investment Memo
 <img width="690" height="872" alt="GOOGL PDF Report 1" src="https://github.com/user-attachments/assets/d1b19053-579d-4bb9-9f92-15832796a48b" />
@@ -72,7 +73,7 @@ graph TD
 
 * Web Framework: FastAPI (Microservices backend)
 
-* AI/ML: OpenAI API / LangChain (Context-aware prompting)
+* AI/ML: OpenAI API (Context-aware prompting)
 
 * Reporting: WeasyPrint (PDF generation)
 
