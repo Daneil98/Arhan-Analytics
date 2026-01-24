@@ -48,9 +48,9 @@ graph TD
 ## 📸 Sample Output
 
 ### 1. Dashboard/User Interface
-<img width="1919" height="938" alt="GOOGL Analysis 1" src="https://github.com/user-attachments/assets/34331a1d-536a-4976-97a3-f4e714e50016" />
+<img width="1906" height="938" alt="ASML Analysis 1" src="https://github.com/user-attachments/assets/44057425-52e1-4b61-a171-b18383c76cca" />
 
-<img width="1917" height="943" alt="GOOGL Analysis 2" src="https://github.com/user-attachments/assets/64d0b0ae-dad8-413d-8bfd-6285d860d22b" />
+<img width="1919" height="941" alt="ASML Analysis 2" src="https://github.com/user-attachments/assets/ab9e562a-b2cc-47ca-aa8f-09c20bf096b8" />
 
 
 ### 2. The Valuation Model (Code Snippet)
