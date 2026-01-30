@@ -48,9 +48,11 @@ graph TD
 ## 📸 Sample Output
 
 ### 1. Dashboard/User Interface
-<img width="1906" height="938" alt="ASML Analysis 1" src="https://github.com/user-attachments/assets/44057425-52e1-4b61-a171-b18383c76cca" />
+<img width="1915" height="939" alt="PLTR Analysis 1" src="https://github.com/user-attachments/assets/6ed2e1d4-a92a-420e-9e42-b97201acd1c5" />
 
-<img width="1919" height="941" alt="ASML Analysis 2" src="https://github.com/user-attachments/assets/ab9e562a-b2cc-47ca-aa8f-09c20bf096b8" />
+<img width="1914" height="936" alt="PLTR Analysis 2" src="https://github.com/user-attachments/assets/b4fd700d-607b-4954-9fc9-08daffc983e0" />
+
+<img width="1919" height="933" alt="PLTR Analysis 3" src="https://github.com/user-attachments/assets/2b84f698-2495-4828-a3d2-2aa46c86cc28" />
 
 
 ### 2. The Valuation Model (Code Snippet)
