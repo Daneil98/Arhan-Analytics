@@ -48,23 +48,23 @@ graph TD
 ## 📸 Sample Output
 
 ### 1. Dashboard/User Interface
-<img width="1915" height="939" alt="PLTR Analysis 1" src="https://github.com/user-attachments/assets/6ed2e1d4-a92a-420e-9e42-b97201acd1c5" />
+<img width="1919" height="932" alt="Screenshot 2026-02-03 190851" src="https://github.com/user-attachments/assets/767e1bf6-bfc4-4d58-88ce-ccd32471b805" />
 
-<img width="1914" height="936" alt="PLTR Analysis 2" src="https://github.com/user-attachments/assets/b4fd700d-607b-4954-9fc9-08daffc983e0" />
-
-<img width="1919" height="933" alt="PLTR Analysis 3" src="https://github.com/user-attachments/assets/2b84f698-2495-4828-a3d2-2aa46c86cc28" />
-
+<img width="1919" height="936" alt="Screenshot 2026-02-03 190901" src="https://github.com/user-attachments/assets/ce748906-1995-4ec5-9945-f6590a9620a4" />
 
 ### 2. The Valuation Model (Code Snippet)
 <img width="1840" height="957" alt="DCF Code Logic" src="https://github.com/user-attachments/assets/58710264-6bb4-435f-ad7c-13ba8960df76" />
 
 
 ### 3. Final Investment Memo
-<img width="742" height="868" alt="Screenshot 2026-02-04 233030" src="https://github.com/user-attachments/assets/2b9c6c45-5a13-4b52-bdc0-dcbc5781fa79" />
 
-<img width="697" height="862" alt="Screenshot 2026-02-04 233102" src="https://github.com/user-attachments/assets/7e7ba819-89e5-4752-a357-e912a6ccc6e4" />
 
-<img width="554" height="871" alt="Screenshot 2026-02-04 233207" src="https://github.com/user-attachments/assets/46d931b1-8506-41c8-bdcc-b7b644655597" />
+![NTNX Memo 1](https://github.com/user-attachments/assets/280e3e40-8b1c-474a-8b53-37d69290a8be)
+
+![NTNX Memo 2](https://github.com/user-attachments/assets/df65c1ca-2f9c-4c69-9607-9f746aee5421)
+
+![NTNX Memo 3](https://github.com/user-attachments/assets/9b4f0659-1c05-4a97-99ac-724578bce6d0)
+
 
 
 ## 🛠️ Tech Stack
