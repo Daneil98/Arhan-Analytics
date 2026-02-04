@@ -60,11 +60,11 @@ graph TD
 
 
 ### 3. Final Investment Memo
-<img width="849" height="976" alt="KTOS PDF Report 1" src="https://github.com/user-attachments/assets/f6b7693c-cf3d-4b68-b873-30ed429354fa" />
+<img width="742" height="868" alt="Screenshot 2026-02-04 233030" src="https://github.com/user-attachments/assets/2b9c6c45-5a13-4b52-bdc0-dcbc5781fa79" />
 
-<img width="846" height="984" alt="KTOS PDF Report 2" src="https://github.com/user-attachments/assets/2e1b1423-f93e-4d9a-8e2b-be0010841b96" />
+<img width="697" height="862" alt="Screenshot 2026-02-04 233102" src="https://github.com/user-attachments/assets/7e7ba819-89e5-4752-a357-e912a6ccc6e4" />
 
-<img width="847" height="940" alt="KTOS PDF Report 3" src="https://github.com/user-attachments/assets/c0fa97f0-29d9-4674-90b0-689ebcbc4ef7" />
+<img width="554" height="871" alt="Screenshot 2026-02-04 233207" src="https://github.com/user-attachments/assets/46d931b1-8506-41c8-bdcc-b7b644655597" />
 
 
 ## 🛠️ Tech Stack
