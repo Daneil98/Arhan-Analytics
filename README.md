@@ -48,13 +48,16 @@ graph TD
 ## 📸 Sample Output
 
 ### 1. Dashboard/User Interface
-<img width="1919" height="932" alt="Screenshot 2026-02-03 190851" src="https://github.com/user-attachments/assets/767e1bf6-bfc4-4d58-88ce-ccd32471b805" />
+<img width="1919" height="298" alt="Screenshot 2026-02-16 2154312" src="https://github.com/user-attachments/assets/d466e27c-4d86-45e9-98d9-6a137b120e1e" />
 
-<img width="1919" height="936" alt="Screenshot 2026-02-03 190901" src="https://github.com/user-attachments/assets/ce748906-1995-4ec5-9945-f6590a9620a4" />
 
 ### 2. The Valuation Model (Code Snippet)
 <img width="1840" height="957" alt="DCF Code Logic" src="https://github.com/user-attachments/assets/58710264-6bb4-435f-ad7c-13ba8960df76" />
-
+<img width="1919" height="938" alt="Screenshot 2026-02-16 215446" src="https://github.com/user-attachments/assets/0ebae63d-a295-4ccb-98a1-2b7be5eed40b" />
+<img width="1919" height="938" alt="Screenshot 2026-02-16 215455" src="https://github.com/user-attachments/assets/b11ac5e1-0955-4a9c-bc23-6d4183c04617" />
+<img width="1919" height="499" alt="Screenshot 2026-02-16 2155141" src="https://github.com/user-attachments/assets/395f035a-5d9d-491f-af3c-57b693deff1d" />
+<img width="1919" height="939" alt="Screenshot 2026-02-16 215538" src="https://github.com/user-attachments/assets/be6c25e8-e525-4313-8408-2a3ee908ef9e" />
+<img width="1915" height="937" alt="Screenshot 2026-02-16 215603" src="https://github.com/user-attachments/assets/0c456176-9d0c-4cc8-9070-ff8ab2c098db" />
 
 ### 3. Final Investment Memo
 
@@ -79,4 +82,4 @@ graph TD
 
 * Reporting: WeasyPrint (PDF generation)
 
-* Data Source: [Yahoo Finance, AlphaVantage]
+* Data Source: [Finance Modeling Prep (FMP), AlphaVantage]
