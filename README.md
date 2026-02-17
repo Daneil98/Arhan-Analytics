@@ -49,15 +49,15 @@ graph TD
 
 ### 1. Dashboard/User Interface
 <img width="1919" height="298" alt="Screenshot 2026-02-16 2154312" src="https://github.com/user-attachments/assets/d466e27c-4d86-45e9-98d9-6a137b120e1e" />
-
-
-### 2. The Valuation Model (Code Snippet)
-<img width="1840" height="957" alt="DCF Code Logic" src="https://github.com/user-attachments/assets/58710264-6bb4-435f-ad7c-13ba8960df76" />
 <img width="1919" height="938" alt="Screenshot 2026-02-16 215446" src="https://github.com/user-attachments/assets/0ebae63d-a295-4ccb-98a1-2b7be5eed40b" />
 <img width="1919" height="938" alt="Screenshot 2026-02-16 215455" src="https://github.com/user-attachments/assets/b11ac5e1-0955-4a9c-bc23-6d4183c04617" />
 <img width="1919" height="499" alt="Screenshot 2026-02-16 2155141" src="https://github.com/user-attachments/assets/395f035a-5d9d-491f-af3c-57b693deff1d" />
 <img width="1919" height="939" alt="Screenshot 2026-02-16 215538" src="https://github.com/user-attachments/assets/be6c25e8-e525-4313-8408-2a3ee908ef9e" />
 <img width="1915" height="937" alt="Screenshot 2026-02-16 215603" src="https://github.com/user-attachments/assets/0c456176-9d0c-4cc8-9070-ff8ab2c098db" />
+
+### 2. The Valuation Model (Code Snippet)
+<img width="1840" height="957" alt="DCF Code Logic" src="https://github.com/user-attachments/assets/58710264-6bb4-435f-ad7c-13ba8960df76" />
+
 
 ### 3. Final Investment Memo
 
