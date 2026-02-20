@@ -43,14 +43,10 @@ graph TD
 
 
 
-### Final Investment Memo
+### Final Investment Memo Snippet
 
 
 ![NTNX Memo 1](https://github.com/user-attachments/assets/280e3e40-8b1c-474a-8b53-37d69290a8be)
-
-![NTNX Memo 2](https://github.com/user-attachments/assets/df65c1ca-2f9c-4c69-9607-9f746aee5421)
-
-![NTNX Memo 3](https://github.com/user-attachments/assets/9b4f0659-1c05-4a97-99ac-724578bce6d0)
 
 
 
